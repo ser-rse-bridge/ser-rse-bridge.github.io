@@ -9,6 +9,8 @@ header:
 ---
 ## About
 
+![Participants in Dagstuhl Seminar 24161](/assets/images/24161.02.s.jpg){: .align-right}
+
 We assume communities just happen, but it's hard work!
 
 Say something about SE, SER, RS, and RSE.
