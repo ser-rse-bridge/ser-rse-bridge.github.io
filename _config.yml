@@ -51,6 +51,7 @@ plugins:
   - jekyll-github-metadata
   - jekyll-include-cache
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 
 # Exclude from processing.
