@@ -13,7 +13,15 @@ header:
 
 We assume communities just happen, but it's hard work!
 
-Add something about SE, SER, RS, RSE, and RSER.
+### About the title
+
+The title of the site, "(R)SE(R)", is (nearly) a regular expression for various abbreviations we used a lot in our discussions:
+software engineering (SE); 
+software engineering research (SER);
+research software (RS);
+research software engineering (RSE); and
+research software engingineering research (RSER), aka research on RSE.
+The proper regular expression would be "(R)?SE(R)?".
 
 ## Outputs
 
