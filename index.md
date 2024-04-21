@@ -1,6 +1,6 @@
 ---
 title: "(R)SE(R)"
-excerpt:  Building Bridges Between Software Engineering Research and Research Software Engineering Communities
+excerpt:  Building Bridges Between the Software Engineering Research (SER) and Research Software Engineering (RSE) Communities
 layout: splash
 header:
   overlay_color: "#000"
@@ -13,7 +13,7 @@ header:
 
 We assume communities just happen, but it's hard work!
 
-Say something about SE, SER, RS, and RSE.
+Add something about SE, SER, RS, RSE, and RSER.
 
 ## Outputs
 
