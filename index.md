@@ -18,6 +18,8 @@ Add something about SE, SER, RS, RSE, and RSER.
 ## Outputs
 
 * Papers
+* Reports
+  - Dagstuhl report (to appear)
 * Posters
 * Blog posts
 * Videos
