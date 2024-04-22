@@ -28,6 +28,7 @@ The proper regular expression would be "(R)?SE(R)?".
 * Papers
 * Reports
   - Dagstuhl report (to appear)
+* Events organized
 * Posters
 * Blog posts
 * Videos
