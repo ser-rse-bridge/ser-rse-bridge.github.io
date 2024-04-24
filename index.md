@@ -4,14 +4,16 @@ excerpt:  Building Bridges Between the Software Engineering Research (SER) and R
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.4"
   overlay_image: /assets/images/01_DSC00749_1_Didas KopieDG1.jpg
+  caption: Schloss Dagstuhl – Leibniz Center for Informatics
 ---
 ## About
 
 ![Participants in Dagstuhl Seminar 24161](/assets/images/24161.02.s.jpg){: .align-right}
 
-We assume communities just happen, but it's hard work!
+> *We assume communities "just happen," but it's hard work!*<br>
+> *&mdash; Heidi Seibold*
 
 ### About the title
 
@@ -20,7 +22,7 @@ software engineering (SE);
 software engineering research (SER);
 research software (RS);
 research software engineering (RSE); and
-research software engingineering research (RSER), aka research on RSE.
+research software engineering research (RSER), aka research on RSE.
 The proper regular expression would be "(R)?SE(R)?".
 
 ## Outputs
