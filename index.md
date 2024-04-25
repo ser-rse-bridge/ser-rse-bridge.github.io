@@ -38,6 +38,9 @@ The proper regular expression would be "(R)?SE(R)?".
 * Music
   - [Bridging the Gaps](/assets/music/Bridging%20the%20Gaps.mp3) by Chris Lazik
   - [Usability and Security](/assets/music/Usability%20and%20Security.mp3) by Chris Lazik
+* Online discussions
+  - [US-RSE Slack](https://usrse.slack.com) channel  #software-engineering-research
+  - [deRSE matrix](https://matrix.to/#/#de-rse.org:matrix.org) room #deRSE-goodreads:uni-jena.de
 
 ## Outcomes
 
