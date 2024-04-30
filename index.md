@@ -42,6 +42,7 @@ The proper regular expression would be "(R)?SE(R)?".
 * Blog posts
 * Videos
 * Websites
+  - [Mapping of terms](/mapping-of-terms) between SER and RSE (under development)
 * Music
   - [Bridging the Gaps](/assets/music/Bridging%20the%20Gaps.mp3) by Chris Lazik
   - [Usability and Security](/assets/music/Usability%20and%20Security.mp3) by Chris Lazik
