@@ -50,6 +50,11 @@ The proper regular expression would be "(R)?SE(R)?".
   - [US-RSE Slack](https://usrse.slack.com) channel  #software-engineering-research
   - [deRSE matrix](https://matrix.to/#/#de-rse.org:matrix.org) room #deRSE-goodreads:uni-jena.de
 
+## Mailing list
+
+For updates and to join the discussion, subscribe to our mailing list:  
+✉ [**ser-rse-bridge@listserv.dfn.de**](https://www.listserv.dfn.de/sympa/info/ser-rse-bridge)
+
 ## Outcomes
 
 ## Impacts
