@@ -35,6 +35,9 @@ The proper regular expression would be "(R)?SE(R)?".
 ## Outputs
 
 * Papers
+  - Papers from this seminar will be published in a **Special Issue "Research Software Engineering: Discovering and Bridging Knowledge Gaps"**
+    of [*IEEE Computing in Science & Engineering*](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=5992),  
+    planned for publication as issue 2/2025 (Apr-Jun 2025).
 * Reports
   - Dagstuhl report (to appear)
 * Events organized
