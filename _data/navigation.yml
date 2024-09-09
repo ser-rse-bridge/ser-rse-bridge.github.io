@@ -1,3 +1,5 @@
 main:
   - title: "✉ Mailing list"
     url: https://www.listserv.dfn.de/sympa/info/ser-rse-bridge
+  - title: "Research questions"
+    url: /research-questions/
