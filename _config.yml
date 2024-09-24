@@ -74,6 +74,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 #  - README.md
+include:
+  - _pages
+
 
 repository: ser-rse-bridge/ser-rse-bridge.github.io
 
