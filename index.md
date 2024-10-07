@@ -53,6 +53,13 @@ The proper regular expression would be "(R)?SE(R)?".
   - [US-RSE Slack](https://usrse.slack.com) channel  #software-engineering-research
   - [deRSE matrix](https://matrix.to/#/#de-rse.org:matrix.org) room #deRSE-goodreads:uni-jena.de
 
+## Research questions
+
+The [Research questions page](/research-questions/) lists open research questions for software engineering research on research software engineering. The list has been compiled from research questions provided by software engineering researchers before and during the Dagstuhl Seminar.
+
+This is a living list and you are welcome to contribute if you know of work that covers one of the research questions, or if you have an open research question in this area.
+
+
 ## Mailing list
 
 For updates and to join the discussion, subscribe to our mailing list:  
