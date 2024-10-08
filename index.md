@@ -39,7 +39,7 @@ The proper regular expression would be "(R)?SE(R)?".
     of [*IEEE Computing in Science & Engineering*](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=5992),  
     planned for publication as issue 2/2025 (Apr-Jun 2025).
 * Reports
-  - Dagstuhl report (to appear)
+  - Stephan Druskat, Lars Grunske, Caroline Jay, and Daniel S. Katz. Research Software Engineering: Bridging Knowledge Gaps (Dagstuhl Seminar 24161). In Dagstuhl Reports, Volume 14, Issue 4, pp. 42-53, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2024) <https://doi.org/10.4230/DagRep.14.4.42>
 * Events organized
 * Posters
 * Blog posts
