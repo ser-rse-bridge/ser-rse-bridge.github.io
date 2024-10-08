@@ -7,7 +7,18 @@ header:
   overlay_filter: "0.4"
   overlay_image: /assets/images/01_DSC00749_1_Didas KopieDG1.jpg
   caption: Schloss Dagstuhl – Leibniz Center for Informatics
+
+# We can't put a regular Minimal Mistakes table of contents on a spash page, 
+# so let's try to put some buttons at the top of the page to allow quick
+# jumps to the major headings (and also to give people an idea of what's on the page.)
+# We do this using the MM "feature_row" helper. Unfortunately, it has to be maintained
+# manually.
+toc_buttons:
+#  - title: "Page Contents"
+  - excerpt: 'On this page: [About](#about){: .btn .btn--info} [Outputs](#outputs){: .btn .btn--info} [Research questions](#research-questions){: .btn .btn--info} [Mailing list](#mailing-list){: .btn .btn--info}'
 ---
+
+{% include feature_row id="toc_buttons" type="center" %}
 
 ![Participants in Dagstuhl Seminar 24161](/assets/images/24161.02.s.jpg){: .align-right}
 
@@ -40,6 +51,7 @@ The proper regular expression would be "(R)?SE(R)?".
     planned for publication as issue 2/2025 (Apr-Jun 2025).
 * Reports
   - Stephan Druskat, Lars Grunske, Caroline Jay, and Daniel S. Katz. Research Software Engineering: Bridging Knowledge Gaps (Dagstuhl Seminar 24161). In Dagstuhl Reports, Volume 14, Issue 4, pp. 42-53, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2024) <https://doi.org/10.4230/DagRep.14.4.42>
+    - *Abstract:* This report documents the program and the outcomes of Dagstuhl Seminar "Research Software Engineering: Bridging Knowledge Gaps" (24161). The seminar brought together participants from the research software engineering and software engineering research communities, as well as experts in research software education and community building to identify knowledge gaps between the two communities, and start collaborations to overcome these gaps. Over the course of five days, participants engaged in learning about each others' work and collaborated in breakout groups on specific topics at the intersection between the two communities. Outputs from the working groups will be collected in a journal special issue and distributed via a dedicated website.
 * Events organized
 * Posters
 * Blog posts
@@ -65,6 +77,8 @@ This is a living list and you are welcome to contribute if you know of work that
 For updates and to join the discussion, subscribe to our mailing list:  
 ✉ [**ser-rse-bridge@listserv.dfn.de**](https://www.listserv.dfn.de/sympa/info/ser-rse-bridge)
 
+<!--
 ## Outcomes
 
 ## Impacts
+-->
