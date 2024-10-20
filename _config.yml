@@ -83,6 +83,12 @@ repository: ser-rse-bridge/ser-rse-bridge.github.io
 # This is needed to generate output for future events
 future: true
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      comments: true
+
 footer:
   links:
     - label: "Dagstuhl Seminar 24161"
