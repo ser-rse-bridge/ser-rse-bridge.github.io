@@ -1,14 +1,12 @@
 ---
 title: "(R)SE(R)"
 excerpt:  Building Bridges Between the Software Engineering Research (SER) and Research Software Engineering (RSE) Communities
-layout: splash
+layout: splash-comments
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
   overlay_image: /assets/images/01_DSC00749_1_Didas KopieDG1.jpg
   caption: Schloss Dagstuhl – Leibniz Center for Informatics
-#
-comments: true # For some reason, the _config.yml default doesn't apply to this page
 #
 # We can't put a regular Minimal Mistakes table of contents on a spash page, 
 # so let's try to put some buttons at the top of the page to allow quick
