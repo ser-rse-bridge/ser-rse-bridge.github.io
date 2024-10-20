@@ -7,7 +7,9 @@ header:
   overlay_filter: "0.4"
   overlay_image: /assets/images/01_DSC00749_1_Didas KopieDG1.jpg
   caption: Schloss Dagstuhl – Leibniz Center for Informatics
-
+#
+comments: true # For some reason, the _config.yml default doesn't apply to this page
+#
 # We can't put a regular Minimal Mistakes table of contents on a spash page, 
 # so let's try to put some buttons at the top of the page to allow quick
 # jumps to the major headings (and also to give people an idea of what's on the page.)
