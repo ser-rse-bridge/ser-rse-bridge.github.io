@@ -54,6 +54,8 @@ The proper regular expression would be "(R)?SE(R)?".
     - *Abstract:* This report documents the program and the outcomes of Dagstuhl Seminar "Research Software Engineering: Bridging Knowledge Gaps" (24161). The seminar brought together participants from the research software engineering and software engineering research communities, as well as experts in research software education and community building to identify knowledge gaps between the two communities, and start collaborations to overcome these gaps. Over the course of five days, participants engaged in learning about each others' work and collaborated in breakout groups on specific topics at the intersection between the two communities. Outputs from the working groups will be collected in a journal special issue and distributed via a dedicated website.
 * Events organized
 * Posters
+  - Y. Yehudi, M. Cashman, M. Felderer, M. Goedicke, W. Hasselbring, D. S. Katz, F. Löffler, S. Müller, and B. Rumpe, “Towards Defining Lifecycles and Categories of Research Software,” in deRSE25 Conference Proceedings, Karlsruhe, Germany: Zenodo, Feb. 2025. doi: [10.5281/zenodo.15002660](https://doi.org/10.5281/zenodo.15002660).
+  - Y. Yehudi, M. Cashman, M. Felderer, M. Goedicke, W. Hasselbring, D. S. Katz, F. Löffler, S. Müller, and B. Rumpe, “Towards Defining Lifecycles and Categories of Research Software,” in USRSE24 Conference Proceedings, Albuquerque, NM, USA: Zenodo, Oct. 2024. doi: [10.5281/zenodo.13974637](https://doi.org/10.5281/zenodo.13974637).
 * Blog posts
 * Videos
 * Websites
