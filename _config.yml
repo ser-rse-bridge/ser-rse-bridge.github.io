@@ -52,6 +52,8 @@ plugins:
   - jekyll-include-cache
   - jekyll-sitemap
   - jekyll-remote-theme
+  - jekyll-scholar
+  - jekyll-regex-replace
 
 
 # Exclude from processing.
@@ -113,3 +115,15 @@ comments:
     discussion_term      : pathname# "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : 1 # '1' for enabled (default), '0' for disabled
     theme                : light # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+
+scholar:
+  style: apa # Default is apa
+  bibliography: "**/*.bib{,tex}" # Any .bib or .bibtex files in _bibliography directory (default source)
+  bibliography_template: reference
+  sort_by: year,month # default none
+  order: descending
+  group_by: year
+  group_order: descending
+  bibliography_group_tag: 'h4,h5,h6' # On main page we use h3 to separate different bibliographies
+  bibliography_list_tag: ul
+  repository: assets/documents
