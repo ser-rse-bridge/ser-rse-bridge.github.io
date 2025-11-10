@@ -57,13 +57,13 @@ The proper regular expression would be "(R)?SE(R)?".
 
 * [*Computing in Science and Engineering*, *27*(2), April--June, 2025](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=11119471&punumber=5992)
 
-### Papers ({% bibliography_count -f papers %})
+### Peer-reviewed publications ({% bibliography_count -f peer-pubs %})
 
-{% bibliography -f papers %}
+{% bibliography -f peer-pubs %}
 
-### Reports ({% bibliography_count -f reports %})
+### Unreviewed publications ({% bibliography_count -f unrev-pubs %})
 
-{% bibliography -f reports %}
+{% bibliography -f unrev-pubs %}
 
 {% comment %}
 ### Presentations ({% bibliography_count -f presentations %})
