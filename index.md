@@ -51,6 +51,10 @@ The proper regular expression would be "(R)?SE(R)?".
 
 * [1st International Workshop on Software Engineering and Research Software (SERS 2026)](https://conf.researchr.org/home/icse-2026/sers-2026), 14 April 2026, Rio de Janiero, Brazil, co-located with [48th International Conference on Software Engineering (ICSE 2026)](https://conf.researchr.org/home/icse-2026). *Submissions have closed*
 
+#### 2024
+
+* [2024 Research Software Engineering & Software Engineering Research](https://wiki.ncsa.illinois.edu/spaces/NCSASoftware/pages/371884077/2024+Research+Software+Engineering+Software+Engineering+Research+workshop) workshop, 7 October 2024, Champaign-Urbana, Illinois
+
 ### Journal special issues (1)
 
 #### 2025
