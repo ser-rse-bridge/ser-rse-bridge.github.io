@@ -53,7 +53,7 @@ The proper regular expression would be "(R)?SE(R)?".
 
 #### 2024
 
-* [2024 Research Software Engineering & Software Engineering Research](https://wiki.ncsa.illinois.edu/spaces/NCSASoftware/pages/371884077/2024+Research+Software+Engineering+Software+Engineering+Research+workshop) workshop, 7 October 2024, Champaign-Urbana, Illinois
+* [2024 Illinois Research Software Engineering & Software Engineering Research](https://wiki.ncsa.illinois.edu/spaces/NCSASoftware/pages/371884077/2024+Research+Software+Engineering+Software+Engineering+Research+workshop) workshop, 7 October 2024, Champaign-Urbana, Illinois
 
 ### Journal special issues (1)
 
